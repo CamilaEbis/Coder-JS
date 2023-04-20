@@ -1,0 +1,12 @@
+header{
+    height: 20%;
+    width: 100%;
+    background-color:rgb(241, 192, 126);
+    font-size: 25px;
+    padding: 10px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.logo{
+    height: 130px;
+    border: 2px solid chocolate;
+}

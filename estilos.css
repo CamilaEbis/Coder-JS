@@ -10,3 +10,8 @@ header{
     height: 130px;
     border: 2px solid chocolate;
 }
+
+.container{
+    height: 110px;
+    background-color: peachpuff;
+}
